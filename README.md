@@ -27,18 +27,6 @@ pip install selenium beautifulsoup4 pandas tqdm requests
 ```
 You also need **ChromeDriver** compatible with your Chrome browser version. Download it from [ChromeDriver](https://sites.google.com/chromium.org/driver/).
 
-## 📜 Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/flipkart-web-scraper.git
-   cd flipkart-web-scraper
-   ```
-2. Run the script:
-   ```bash
-   python flipkart_scraper.py
-   ```
-3. The extracted data will be saved in a CSV file.
-
 ## 📝 Code Explanation
 ### 1️⃣ Importing Libraries
 - **NumPy & Pandas**: For numerical operations and data manipulation
@@ -76,7 +64,4 @@ This project is **MIT Licensed**. Feel free to use and modify it.
 
 ## 🤝 Contributing
 Pull requests are welcome! If you have suggestions or improvements, feel free to open an issue or contribute.
-
-## 📬 Contact
-For any queries, reach out via **[your email/LinkedIn/GitHub profile link]**.
 
